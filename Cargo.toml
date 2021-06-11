@@ -12,7 +12,7 @@ repository = "https://github.com/sozysozbot/cetkaik_full_state_transition"
 [dependencies]
 cetkaik_calculate_hand = "0.3.1"
 cetkaik_core = "0.3.4"
-cetkaik_yhuap_move_candidates = "0.2.5"
+cetkaik_yhuap_move_candidates = "0.2.6"
 readonly = "0.2.0"
 maplit = "1.0.2"
 enum_primitive = "0.1.1"
