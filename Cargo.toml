@@ -18,4 +18,4 @@ maplit = "1.0.2"
 enum_primitive = "0.1.1"
 num = "0.4.0"
 serde = { version = "1.0.123", features = ["derive"] }
-rand = "0.8.3"
+rand = "0.8.4"
